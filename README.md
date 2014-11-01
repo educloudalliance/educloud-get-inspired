@@ -1,6 +1,8 @@
 educloud-get-inspired
 =====================
 
+![logo](https://cloud.githubusercontent.com/assets/1927158/4871663/3f6b6ed6-61c3-11e4-8d6a-23165028b455.jpg)
+
 This repository will focus on EduCloud Get Inspired development. Users of this repo will be Demola teams, hired development teams and EduCloud Alliance members and partners. 
 
 ## Materials 
